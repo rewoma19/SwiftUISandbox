@@ -35,3 +35,13 @@ Concepts learned:
 7. Letting users select text using the textSelection() modifier
 
 8. Making text in a TextField view either uppercase or lowercase using the textCase() modifier
+
+## Day 2
+
+### Images, shapes, and media
+
+Concepts learned:
+
+1. Displaying images using the Image View
+
+2. Displaying icons from Apple's SF Symbols icon set using the Image view and systemName parameter
