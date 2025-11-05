@@ -45,3 +45,19 @@ Concepts learned:
 1. Displaying images using the Image View
 
 2. Displaying icons from Apple's SF Symbols icon set using the Image view and systemName parameter
+
+## Day 3
+
+### Images, shapes, and nmedia
+
+Concepts learned:
+
+1. Displaying solid shapes using built-in views
+
+2. Rendering gradients
+
+3. Apply strokes to shapes
+
+4. Let users select pictures using PhotosPicker
+
+
