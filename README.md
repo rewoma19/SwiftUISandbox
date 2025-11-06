@@ -67,3 +67,13 @@ Concepts learned:
 Concepts learned:
 
 1. Positioning views in a fixed grid
+
+## Day 5
+
+### Stacks, grids, and scrollviews
+
+Concepts learned:
+
+1. Adding horizontal and vertical scrolling using ScrollView
+
+2. Make a Scrollview snap with paging or between child views

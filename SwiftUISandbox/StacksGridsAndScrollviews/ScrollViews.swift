@@ -22,13 +22,16 @@ struct ScrollViews: View {
 //            NOTE that both axes in a scrollview can be specified using [.horizontal, .vertical
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 20) {
-                    ForEach(0..<8) {_ in
+                    ForEach(0..<10) { _ in
                         RoundedRectangle(cornerRadius: 8)
-                            .fill(.red)
-                            .frame(width: 200, height: 140)
+                            .fill(.black)
+                            .frame(width: 300, height: 120)
                     }
                 }
+//                The scrollTargetLayout modifier being used on this HStack nakes every view inside it to be a target
+                .scrollTargetLayout()
             }
+            .scrollTargetBehavior(.viewAligned)
             .padding()
             .frame(height: 200)
             .background(.white)
