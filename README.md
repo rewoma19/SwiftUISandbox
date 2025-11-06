@@ -60,4 +60,10 @@ Concepts learned:
 
 4. Let users select pictures using PhotosPicker
 
+## Day 4
 
+### Stacks, grids, and scrollviews
+
+Concepts learned:
+
+1. Positioning views in a fixed grid
