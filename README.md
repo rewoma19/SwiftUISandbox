@@ -81,3 +81,5 @@ Concepts learned:
 3. Let users choose a color with the help of the ColorsPicker view
 
 4. Create a toggle switch
+
+5. Explore basics of TabView
