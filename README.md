@@ -77,3 +77,7 @@ Concepts learned:
 1. Adding horizontal and vertical scrolling using ScrollView
 
 2. Make a Scrollview snap with paging or between child views
+
+3. Let users choose a color with the help of the ColorsPicker view
+
+4. Create a toggle switch
