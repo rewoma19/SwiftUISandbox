@@ -4,11 +4,7 @@ import SwiftUI
 struct SwiftUISandboxApp: App {
     var body: some Scene {
         WindowGroup {
-            TabView {
-                ContentView()
-                ScrollViews()
-                PickPhotos()
-            }
+            ContentView()
         }
     }
 }

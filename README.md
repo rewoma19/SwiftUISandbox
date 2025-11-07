@@ -78,8 +78,24 @@ Concepts learned:
 
 2. Make a Scrollview snap with paging or between child views
 
+### User interface controls
+
+Concepts learned:
+
 3. Let users choose a color with the help of the ColorsPicker view
 
 4. Create a toggle switch
 
-5. Explore basics of TabView
+### Responding to events
+
+Concepts learned:
+
+5. Control which view is shown when your app launches
+
+## Day 6
+
+### User interface controls
+
+Concepts learned:
+
+1. Opening web links in Safari using Link view
