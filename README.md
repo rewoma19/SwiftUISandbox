@@ -20,21 +20,21 @@ To build a solid understanding of each SwiftUI concept by:
 
 Concepts learned:
 
-1. Creating static labels using a Text view
+1. [Creating static labels using a Text view](SwiftUISandbox/WorkingWithText/StaticLabels.swift)
 
-2. Styling Text views with fonts, colors, line spacing, and more
+2. [Styling Text views with fonts, colors, line spacing, and more](SwiftUISandbox/WorkingWithText/StylingText.swift)
 
-3. Adjusting text alignment using the multilineTextAlignment() modifier
+3. [Adjusting text alignment using the multilineTextAlignment() modifier](SwiftUISandbox/WorkingWithText/TextAlign.swift)
 
-4. Adding spacing between letters in text
+4. [Adding spacing between letters in text](SwiftUISandbox/WorkingWithText/TextSpacing.swift)
 
-5. Formatting dates inside Text views
+5. [Formatting dates inside Text views](SwiftUISandbox/WorkingWithText/FormatDateText.swift)
 
-6. Showing text and icons side by side using the Label view
+6. [Showing text and icons side by side using the Label view](SwiftUISandbox/WorkingWithText/TextLabel.swift)
 
-7. Letting users select text using the textSelection() modifier
+7. [Letting users select text using the textSelection() modifier](SwiftUISandbox/WorkingWithText/TextLabel.swift)
 
-8. Making text in a TextField view either uppercase or lowercase using the textCase() modifier
+8. [Making text in a TextField view either uppercase or lowercase using the textCase() modifier](SwiftUISandbox/WorkingWithText/TextFieldCase.swift)
 
 ## Day 2
 
