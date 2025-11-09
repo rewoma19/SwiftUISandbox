@@ -3,7 +3,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationStack {
-            WebLinks()
+            VStack {
+                Text("Main view")
+                    .font(.title)
+            }
         }
     }
 }
