@@ -99,3 +99,15 @@ Concepts learned:
 Concepts learned:
 
 1. Opening web links in Safari using Link view
+
+## Day 7
+
+### Navigation
+
+Concepts learned:
+
+1. Embedding a view in a navigation view
+
+2. Letting users edit the navigation title
+
+3. Adding bar items to a navigation view
