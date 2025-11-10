@@ -44,9 +44,9 @@ Concepts learned:
 
 1. [Displaying images using the Image View](SwiftUISandbox/ShapesAndMedia/Images.swift)
 
-2. [Displaying icons from Apple's SF Symbols icon set using the Image view and systemName parameter](SwiftUI/Sandbox/ShapesAndMedia/Images.swift)
+2. [Displaying icons from Apple's SF Symbols icon set using the Image view and systemName parameter](SwiftUISandbox/ShapesAndMedia/Images.swift)
 
-3. [Displaying image as a background to a view](SwiftUI/Sandbox/ShapesAndMedia/ImageBackground.swift)
+3. [Displaying image as a background to a view](SwiftUISandbox/ShapesAndMedia/ImageBackground.swift)
 
 ## Day 3
 
@@ -54,13 +54,13 @@ Concepts learned:
 
 Concepts learned:
 
-1. [Displaying solid shapes using built-in views](SwiftUI/Sandbox/ShapesAndMedia/DisplayShapes.swift)
+1. [Displaying solid shapes using built-in views](SwiftUISandbox/ShapesAndMedia/DisplayShapes.swift)
 
-2. [Rendering gradients](SwiftUI/Sandbox/ShapesAndMedia/RenderGradient.swift)
+2. [Rendering gradients](SwiftUISandbox/ShapesAndMedia/RenderGradient.swift)
 
-3. [Apply strokes to shapes](SwiftUI/Sandbox/ShapesAndMedia/DisplayShapes.swift)
+3. [Apply strokes to shapes](SwiftUISandbox/ShapesAndMedia/DisplayShapes.swift)
 
-4. [Let users select pictures using PhotosPicker](SwiftUI/Sandbox/ShapesAndMedia/PickPhotos.swift)
+4. [Let users select pictures using PhotosPicker](SwiftUISandbox/ShapesAndMedia/PickPhotos.swift)
 
 ## Day 4
 
@@ -68,7 +68,7 @@ Concepts learned:
 
 Concepts learned:
 
-1. [Positioning views in a fixed grid](SwiftUI/Sandbox/StacksGridsAndScrollviews/FixedGrid.swift)
+1. [Positioning views in a fixed grid](SwiftUISandbox/StacksGridsAndScrollviews/FixedGrid.swift)
 
 ## Day 5
 
@@ -76,17 +76,17 @@ Concepts learned:
 
 Concepts learned:
 
-1. [Adding horizontal and vertical scrolling using ScrollView](SwiftUI/Sandbox/StacksGridsAndScrollviews/ScrollViews.swift)
+1. [Adding horizontal and vertical scrolling using ScrollView](SwiftUISandbox/StacksGridsAndScrollviews/ScrollViews.swift)
 
-2. [Make a Scrollview snap with paging or between child views](SwiftUI/Sandbox/StacksGridsAndScrollviews/ScrollViews.swift)
+2. [Make a Scrollview snap with paging or between child views](SwiftUISandbox/StacksGridsAndScrollviews/ScrollViews.swift)
 
 ### User interface controls
 
 Concepts learned:
 
-3. [Let users choose a color with the help of the ColorsPicker view](SwiftUI/Sandbox/UserInterfaceControls/PickingColors.swift)
+3. [Let users choose a color with the help of the ColorsPicker view](SwiftUISandbox/UserInterfaceControls/PickingColors.swift)
 
-4. [Create a toggle switch](SwiftUI/Sandbox/UserInterfaceControls/ToggleSwitch.swift)
+4. [Create a toggle switch](SwiftUISandbox/UserInterfaceControls/ToggleSwitch.swift)
 
 ### Responding to events
 
@@ -100,7 +100,7 @@ Concepts learned:
 
 Concepts learned:
 
-1. [Opening web links in Safari using Link view](SwiftUI/Sandbox/UserInterfaceControls/WebLinks.swift)
+1. [Opening web links in Safari using Link view](SwiftUISandbox/UserInterfaceControls/WebLinks.swift)
 
 ## Day 7
 
@@ -108,10 +108,10 @@ Concepts learned:
 
 Concepts learned:
 
-1. [Embedding a view in a navigation view](SwiftUI/Sandbox/Navigation/EmbedViewInNav.swift)
+1. [Embedding a view in a navigation view](SwiftUISandbox/Navigation/EmbedViewInNav.swift)
 
-2. [Letting users edit the navigation title](SwiftUI/Sandbox/Navigation/EditNavTitle.swift)
+2. [Letting users edit the navigation title](SwiftUISandbox/Navigation/EditNavTitle.swift)
 
-3. [Adding bar items to a navigation view](SwiftUI/Sandbox/Navigation/NavBarItems.swift)
+3. [Adding bar items to a navigation view](SwiftUISandbox/Navigation/NavBarItems.swift)
 
 4. [Pushing a new view onto a NavigationStack](SwiftUISandbox/Navigation/PushView.swift)
