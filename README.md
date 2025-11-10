@@ -123,3 +123,5 @@ Concepts learned:
 Concepts learned:
 
 1. [Embedding views in a tab bar using TabView](SwiftUISandbox/Containers/TabViews.swift)
+
+2. [Hiding and revealing content using DisclosureGroup](SwiftUISandbox/Containers/RevealContent.swift)
