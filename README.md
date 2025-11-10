@@ -115,3 +115,11 @@ Concepts learned:
 3. [Adding bar items to a navigation view](SwiftUISandbox/Navigation/NavBarItems.swift)
 
 4. [Pushing a new view onto a NavigationStack](SwiftUISandbox/Navigation/PushView.swift)
+
+## Day 8
+
+### Containers
+
+Concepts learned:
+
+1. [Embedding views in a tab bar using TabView](SwiftUISandbox/Containers/TabViews.swift)
