@@ -131,3 +131,9 @@ Concepts learned:
 ### Stacks, grids, scrollviews
 
 1. [Making a fixed size Spacer](SwiftUISandbox/StacksGridsAndScrollviews/FixedSpacer.swift)
+
+## Day 10
+
+### Lists
+
+1. [Set the background color of list rows](SwiftUISandbox/Lists/ListRowBackground.swift)
