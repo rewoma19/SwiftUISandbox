@@ -137,3 +137,13 @@ Concepts learned:
 ### Lists
 
 1. [Set the background color of list rows](SwiftUISandbox/Lists/ListRowBackground.swift)
+
+## Day 11
+
+### Composing Views
+
+1. [Combine text views together](SwiftUISandbox/ComposingViews/CombiningText.swift)
+
+### Presenting Views
+
+1. [Ask a user to review the app](SwiftUISandbox/PresentingViews/ReviewApp.swift)
